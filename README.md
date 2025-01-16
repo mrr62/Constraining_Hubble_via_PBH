@@ -11,6 +11,7 @@ and abundance fractions that depend on PBH mass.
 Varying these parameters offers a way to constrain the Hubble constant that is independent of the CMB and SN methods, which are currently in conflict. It is the hope that, with enough comparative data, a third method may offer more insight into why these discrepancies exist, and potentially offer hints as to which, if either, is "more correct". 
 
 THIS IS STILL A WORK IN PROGRESS !! I can offer no conclusive insights, and as of now this project exists as an exercise into exploring the relationship between PBHs and the Hublle constant in a novel way, but offers no conclusive evidence on Hubble constraints. The margins of error are too large, and the real data being compared (gravitational wave data) is not expansive enough (only 42 data points). 
+NOTE: the mass ranges and averages are also currently in the midst of being changed
 
 To read more on background and methods, you can consult Zu-Cheng Chen et al JCAP03(2023)024, which was the main source inspriing this project, or read my paper INSERT LINK HERE, which includes a multitude of secondary sources 
 
